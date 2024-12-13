@@ -1,3 +1,11 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/agodin3z?pet-id=655409621096854874"
+    width="600"
+    height="120"
+  />
+</a>
+
 <h4>🏆 Trophies</h4>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=agodin3z&column=6&margin-w=10&no-frame=true&no-bg=true&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
